@@ -1,0 +1,165 @@
+Using pre-set license
+Desktop is 1920 x 1080 @ 60 Hz
+
+ COMMAND LINE ARGUMENTS:
+Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/home/chenfu/unity_4_wheel
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+34323
+Successfully changed project path to: /home/chenfu/unity_4_wheel
+/home/chenfu/unity_4_wheel
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 66.99 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.01 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path /home/chenfu/Unity-2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /home/chenfu/unity_4_wheel/Assets
+GLX Extensions: GLX_ARB_context_flush_control GLX_ARB_create_context GLX_ARB_create_context_no_error GLX_ARB_create_context_profile GLX_ARB_fbconfig_float GLX_ARB_framebuffer_sRGB GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_buffer_age GLX_EXT_create_context_es2_profile GLX_EXT_create_context_es_profile GLX_EXT_fbconfig_packed_float GLX_EXT_framebuffer_sRGB GLX_EXT_no_config_context GLX_EXT_swap_control GLX_EXT_swap_control_tear GLX_EXT_texture_from_pixmap GLX_EXT_visual_info GLX_EXT_visual_rating GLX_MESA_copy_sub_buffer GLX_MESA_query_renderer GLX_MESA_swap_control GLX_OML_swap_method GLX_OML_sync_control GLX_SGIS_multisample GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGIX_visual_select_group GLX_SGI_make_current_read GLX_SGI_video_sync 
+Renderer: SVGA3D; build: RELEASE;  LLVM;
+Vendor:   VMware, Inc.
+Version:  4.1 (Core Profile) Mesa 23.0.4-0ubuntu1~22.04.1
+GLES:     0
+ GL_AMD_conservative_depth GL_AMD_draw_buffers_blend GL_AMD_multi_draw_indirect GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_half_f
+loat_pixel GL_ARB_half_float_vertex GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pixel_buffer_object GL_ARB_point_sprite GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_separate_shader_objects GL_ARB_shader_bit_encoding GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_subroutine GL_ARB_shader_texture_lod GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array 
+GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_frameb
+uffer_object GL_EXT_framebuffer_sRGB GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_provoking_vertex GL_EXT_shader_integer_mix GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT_texture_sRGB_decode GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.1 graphics device ; Context level  <OpenGL 4.1> ; Context handle -1576720704
+Initialize mono
+Mono path[0] = '/home/chenfu/Unity-2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = '/home/chenfu/Unity-2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/home/chenfu/Unity-2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56035
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /home/chenfu/Unity-2020.3.11f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.008586 seconds.
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 33.17 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.01 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.661 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.022903 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 37.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.01 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.404 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.01 ms.
+Unloading 1734 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.7 MB.
+System memory in use after: 68.7 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2161.
+Total: 7.388700 ms (FindLiveObjects: 0.380500 ms CreateObjectMapping: 0.374700 ms MarkObjects: 5.177000 ms  DeleteObjects: 1.421000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/materials/trail 1.mat
+  artifactKey: Guid(1708b01137580fe77b63dde7fa13b9cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/trail 1.mat using Guid(1708b01137580fe77b63dde7fa13b9cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a695119616d4da76d1d8087d3f0fde41') in 0.375545 seconds
+  Import took 0.386879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000850 seconds.
+  path: Assets/materials/New Material.mat
+  artifactKey: Guid(18937ec6c5cfe3030bde6632cae0f99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/New Material.mat using Guid(18937ec6c5cfe3030bde6632cae0f99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f283158f4bfd68c05471034c09b1f530') in 0.028011 seconds
+  Import took 0.030961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000709 seconds.
+  path: Assets/materials/c.mat
+  artifactKey: Guid(c1dbd05909094ceadb01eb6c04e9cb8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/c.mat using Guid(c1dbd05909094ceadb01eb6c04e9cb8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b29347bf3e83b8b994a23ef1aa929dd') in 0.027784 seconds
+  Import took 0.032611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000934 seconds.
+  path: Assets/materials/trail.mat
+  artifactKey: Guid(68308a730b039d48491be112c4ff57d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/trail.mat using Guid(68308a730b039d48491be112c4ff57d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4603de4d468f3c3a5a9b6e2f6525dc0b') in 0.018043 seconds
+  Import took 0.024037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000688 seconds.
+  path: Assets/materials/floor.mat
+  artifactKey: Guid(662fd403ac4109e60a68d7b9ff5ef012) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/floor.mat using Guid(662fd403ac4109e60a68d7b9ff5ef012) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7adfe303c23d5dec892e6f9261f5d43c') in 0.057132 seconds
+  Import took 0.061338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000549 seconds.
+  path: Assets/materials/target.mat
+  artifactKey: Guid(7a624a67aa634111c9a02a05575b7dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/target.mat using Guid(7a624a67aa634111c9a02a05575b7dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1417826679b6f1a27fb5ffc7331ed561') in 0.045727 seconds
+  Import took 0.048805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000535 seconds.
+  path: Assets/Resources
+  artifactKey: Guid(b695025f5e66cdb0a8c5c5a6400a6eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources using Guid(b695025f5e66cdb0a8c5c5a6400a6eed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ece43ff9c6e4422dc4facb8317d49c26') in 0.002370 seconds
+  Import took 0.005561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000550 seconds.
+  path: Assets/materials/targets.mat
+  artifactKey: Guid(7e3bca3cb9ce1da829f79966d8998b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/targets.mat using Guid(7e3bca3cb9ce1da829f79966d8998b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '219e1d38452b3a91bdf2a9f98c8e2916') in 0.047573 seconds
+  Import took 0.051618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000537 seconds.
+  path: Assets/lidarCar/test_abb_4600.urdf
+  artifactKey: Guid(da0e8890f1884327f93ab9468db4d815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/lidarCar/test_abb_4600.urdf using Guid(da0e8890f1884327f93ab9468db4d815) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ec754bb468d8ee206f71fefd13d1aa3') in 0.003460 seconds
+  Import took 0.008219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/materials/obstacle.mat
+  artifactKey: Guid(2a88086833d75f4399374846ed8793f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials/obstacle.mat using Guid(2a88086833d75f4399374846ed8793f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b42d6450bc15d68ed60a99588ba525d3') in 0.018796 seconds
+  Import took 0.023548 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000629 seconds.
+  path: Assets/materials
+  artifactKey: Guid(b6ac4d825316580e892dadc6ae190a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/materials using Guid(b6ac4d825316580e892dadc6ae190a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d2512cd0ad234038fedf60038128650') in 0.002237 seconds
+  Import took 0.007262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000677 seconds.
+  path: Assets/Resources/ROSConnectionPrefab.prefab
+  artifactKey: Guid(fdff589b9d894d9fe9973e7482964b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/ROSConnectionPrefab.prefab using Guid(fdff589b9d894d9fe9973e7482964b9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9742a913eb5159e504a329dde42b899f') in 0.059819 seconds
+  Import took 0.065244 seconds .
+
